@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
+| [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
