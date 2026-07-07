@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -89,5 +92,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
