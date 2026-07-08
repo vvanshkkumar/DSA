@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0136-single-number](https://github.com/vvanshkkumar/DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -94,4 +95,8 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/vvanshkkumar/DSA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
