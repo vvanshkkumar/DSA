@@ -31,6 +31,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vvanshkkumar/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/vvanshkkumar/DSA/tree/main/0136-single-number/) | Easy |
@@ -127,4 +128,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vvanshkkumar/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
