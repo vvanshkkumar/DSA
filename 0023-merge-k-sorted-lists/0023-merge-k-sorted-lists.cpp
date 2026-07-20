@@ -11,6 +11,18 @@
 class Solution {
 public:
 
+   ListNode* sort(vector<ListNode*>& lists, int l, int r){
+
+     if(l==r) return lists[l];
+
+     int mid = (l+r)/2;
+
+     ListNode* left = sort(lists, l, mid);
+     ListNode* right = sort(lists, mid+1, r);
+
+     return merge(left, right);
+   }
+
    ListNode* merge(ListNode* head1, ListNode* head2){
 
       ListNode* dummy = new ListNode(-1);
@@ -65,15 +77,6 @@ public:
 
         if(lists.size() == 0) return NULL;
         
-        ListNode* prev = lists[0];
-
-        for(int i=1;i<lists.size();i++){
-
-            ListNode* curr = lists[i];
-
-            prev = merge(prev, curr);
-        }
-
-        return prev;
+        return sort(lists, 0, lists.size()-1);
     }
 };
