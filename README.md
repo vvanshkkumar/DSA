@@ -26,6 +26,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vvanshkkumar/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/vvanshkkumar/DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0343-integer-break](https://github.com/vvanshkkumar/DSA/tree/main/0343-integer-break/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -158,6 +159,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/vvanshkkumar/DSA/tree/main/0343-integer-break/) | Medium |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
