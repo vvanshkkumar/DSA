@@ -33,6 +33,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Array
@@ -50,6 +51,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
