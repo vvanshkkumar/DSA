@@ -15,6 +15,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
+| [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Array
 | Problem Name | Difficulty |
