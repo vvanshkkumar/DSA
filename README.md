@@ -36,6 +36,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
