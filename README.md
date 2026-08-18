@@ -32,6 +32,7 @@
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
@@ -51,6 +52,7 @@
 | [0312-burst-balloons](https://github.com/vvanshkkumar/DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -122,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Two Pointers
@@ -133,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 ## Bit Manipulation
@@ -200,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/vvanshkkumar/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
