@@ -17,6 +17,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vvanshkkumar/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/vvanshkkumar/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0763-partition-labels](https://github.com/vvanshkkumar/DSA/tree/main/0763-partition-labels/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/vvanshkkumar/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -116,6 +120,7 @@
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -162,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -231,5 +237,10 @@
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 <!---LeetCode Topics End-->
