@@ -87,6 +87,7 @@
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/vvanshkkumar/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +228,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/vvanshkkumar/DSA/tree/main/0127-word-ladder/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 <!---LeetCode Topics End-->
