@@ -41,6 +41,7 @@
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/vvanshkkumar/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -248,4 +251,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
