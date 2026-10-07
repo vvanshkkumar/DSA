@@ -92,6 +92,7 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -107,6 +108,7 @@
 | [0127-word-ladder](https://github.com/vvanshkkumar/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
@@ -131,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -188,6 +191,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
