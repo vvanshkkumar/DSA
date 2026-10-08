@@ -94,6 +94,7 @@
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0547-number-of-provinces](https://github.com/vvanshkkumar/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -112,6 +113,7 @@
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/vvanshkkumar/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -127,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/vvanshkkumar/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
@@ -137,6 +140,7 @@
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0547-number-of-provinces](https://github.com/vvanshkkumar/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
