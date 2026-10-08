@@ -95,6 +95,7 @@
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -112,6 +113,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -136,6 +138,7 @@
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -219,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vvanshkkumar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -274,11 +278,13 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
