@@ -64,6 +64,7 @@
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vvanshkkumar/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1905-count-sub-islands](https://github.com/vvanshkkumar/DSA/tree/main/1905-count-sub-islands/) | Medium |
 ## Hash Table
@@ -133,6 +134,7 @@
 | [0684-redundant-connection](https://github.com/vvanshkkumar/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vvanshkkumar/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1905-count-sub-islands](https://github.com/vvanshkkumar/DSA/tree/main/1905-count-sub-islands/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vvanshkkumar/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -298,4 +301,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
