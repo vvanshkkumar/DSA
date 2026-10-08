@@ -17,9 +17,9 @@ public:
               dfs(list, tin, low, neigh, cc, timer, node);
     
               
-                low[node] = min(low[node], low[neigh]);
+              if(low[neigh] < tin[node]) low[node] = min(low[node], low[neigh]);
               
-              if(low[neigh] > tin[node]){
+              else if(low[neigh] > tin[node]){
                 cc.push_back({neigh, node});
               }
               }
