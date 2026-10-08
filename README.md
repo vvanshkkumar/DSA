@@ -102,6 +102,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/vvanshkkumar/DSA/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/vvanshkkumar/DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/vvanshkkumar/DSA/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -149,6 +150,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/vvanshkkumar/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/vvanshkkumar/DSA/tree/main/0886-possible-bipartition/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/vvanshkkumar/DSA/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vvanshkkumar/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
@@ -317,4 +319,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/vvanshkkumar/DSA/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/vvanshkkumar/DSA/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
