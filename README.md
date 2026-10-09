@@ -42,6 +42,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1416-restore-the-array](https://github.com/vvanshkkumar/DSA/tree/main/1416-restore-the-array/) | Hard |
+| [1463-cherry-pickup-ii](https://github.com/vvanshkkumar/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
@@ -67,6 +68,7 @@
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vvanshkkumar/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1463-cherry-pickup-ii](https://github.com/vvanshkkumar/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/vvanshkkumar/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1905-count-sub-islands](https://github.com/vvanshkkumar/DSA/tree/main/1905-count-sub-islands/) | Medium |
@@ -167,6 +169,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vvanshkkumar/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/vvanshkkumar/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1905-count-sub-islands](https://github.com/vvanshkkumar/DSA/tree/main/1905-count-sub-islands/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
