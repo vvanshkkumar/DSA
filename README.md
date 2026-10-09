@@ -34,6 +34,7 @@
 | [0343-integer-break](https://github.com/vvanshkkumar/DSA/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/vvanshkkumar/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/vvanshkkumar/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -91,6 +92,7 @@
 | ------- | ------- |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/vvanshkkumar/DSA/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/vvanshkkumar/DSA/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
 ## Depth-First Search
@@ -207,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/vvanshkkumar/DSA/tree/main/0136-single-number/) | Easy |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +253,7 @@
 | [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/vvanshkkumar/DSA/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/vvanshkkumar/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -258,6 +262,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -343,4 +348,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0464-can-i-win](https://github.com/vvanshkkumar/DSA/tree/main/0464-can-i-win/) | Medium |
 <!---LeetCode Topics End-->
