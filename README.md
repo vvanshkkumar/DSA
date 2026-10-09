@@ -27,6 +27,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/vvanshkkumar/DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/vvanshkkumar/DSA/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/vvanshkkumar/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vvanshkkumar/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/vvanshkkumar/DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -114,6 +115,7 @@
 | [0127-word-ladder](https://github.com/vvanshkkumar/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/vvanshkkumar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0310-minimum-height-trees](https://github.com/vvanshkkumar/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -242,6 +244,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/vvanshkkumar/DSA/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/vvanshkkumar/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1510-stone-game-iv](https://github.com/vvanshkkumar/DSA/tree/main/1510-stone-game-iv/) | Hard |
@@ -329,4 +332,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/vvanshkkumar/DSA/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vvanshkkumar/DSA/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
