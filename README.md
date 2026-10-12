@@ -64,6 +64,7 @@
 | [0312-burst-balloons](https://github.com/vvanshkkumar/DSA/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/vvanshkkumar/DSA/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0739-daily-temperatures](https://github.com/vvanshkkumar/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -169,6 +170,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vvanshkkumar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0542-01-matrix/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vvanshkkumar/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/vvanshkkumar/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -190,6 +192,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/vvanshkkumar/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/vvanshkkumar/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -226,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvanshkkumar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/vvanshkkumar/DSA/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vvanshkkumar/DSA/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Divide and Conquer
@@ -241,6 +245,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vvanshkkumar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vvanshkkumar/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0743-network-delay-time](https://github.com/vvanshkkumar/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vvanshkkumar/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Merge Sort
